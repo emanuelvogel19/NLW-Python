@@ -3,7 +3,7 @@ from cerberus import Validator
 body = {
     "data":{
         "elemento1": 123.98,
-        "elemento2": "olaMundo",
+        "elemento2": "Teste",
     }
 }
 
